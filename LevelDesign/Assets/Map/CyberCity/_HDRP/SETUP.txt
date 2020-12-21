@@ -1,0 +1,11 @@
+Important:
+- This folder contains HDRP version of Cyber City as complete project;
+- Be careful: complete project may overwrite your project settings;
+- Use empty project for import (just 3d template);
+- Use Unity 2019.3.0 or higher (Important: requires Unity 2019.3.0 or higher).
+
+Install:
+- create empty project (3d template);
+- click Assets > Import Package > Custom Package;
+- goto 'HDRP Cyber City 2019.3.0' file via explorer;
+- import (IMPORTANT: install all dependencies and settings).
